@@ -5,7 +5,7 @@ library(lme4)
 #Dataset
 
 ch3 <- read.csv(
-  "https://raw.githubusercontent.com/jlopezco-wm/coagulation/main/Lopez_coagulation_JWREUSE.csv",
+  "https://raw.githubusercontent.com/jlopezco-wm/tanflocpfsmodel/main/Lopez_coagulation_JWREUSE.csv",
   stringsAsFactors = TRUE
 )
 
